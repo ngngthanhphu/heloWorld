@@ -1,3 +1,0 @@
-# heloWorld
-test
-Say hello
